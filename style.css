@@ -1,0 +1,9 @@
+#inputs{
+    display: flex;
+    flex-direction: column;
+  
+}
+#inputs input{
+    width: 50%;
+    margin: auto;
+}
