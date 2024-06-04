@@ -1,6 +1,24 @@
+#first-title{
+    text-align: center;
+}
+
+
+
+#title{
+    text-decoration-color: gold;
+    text-align: center;
+}
+
+
 #inputs{
+    text-align: center;
     display: flex;
     flex-direction: column;
+    margin: 40px 60px 40px 60px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left:20px;
   
 }
 #inputs input{
